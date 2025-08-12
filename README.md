@@ -2,7 +2,8 @@
 
 A modern, responsive portfolio showcasing my skills and experience as a Full Stack Java Developer with expertise in React and WordPress.
 
-[**Portfolio Link**](https://avinash987.github.io/laith-avinash-donkina.dev/)
+[**Portfolio Link**](https://avinash987.github.io/lalith-avinash-donkina.dev/)
+
 ## ✨ Features
 
 - **Responsive Layout**: Optimized for all devices with mobile-first approach
@@ -23,15 +24,12 @@ A modern, responsive portfolio showcasing my skills and experience as a Full Sta
 - Jest and React Testing Library for testing
 - Responsive design with CSS media queries
 
-
 ---
-
 
 ## New Changes
 
 1. Dynamic layout for projects and a detail view page.
 2. Compact design for Skills sections
 3. Conditional off-loading profile card in project detail page when in mobile view
-
 
 Made with ❤️ by Laith Avinash Donkina inspired by [245Charan]
