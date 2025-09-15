@@ -32,4 +32,4 @@ A modern, responsive portfolio showcasing my skills and experience as a Full Sta
 2. Compact design for Skills sections
 3. Conditional off-loading profile card in project detail page when in mobile view
 
-Made with ❤️ by Laith Avinash Donkina inspired by [245Charan]
+Made with ❤️ by Laith Avinash Donkina inspired by [@245Charan]
